@@ -1,0 +1,11 @@
+.corPadrao {
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+.alteraCor {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
